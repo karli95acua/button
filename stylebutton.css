@@ -1,0 +1,49 @@
+.boton {
+    margin-left: 100px;
+    margin-top: 80px;
+    background-color: whitesmoke;
+    border: 3px solid;
+    border-color: cornflowerblue;
+    height: 40px;
+    width: 150px;
+    border-radius: 25px;
+}
+
+.textobuscar {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color:darkblue;
+}
+
+.botonsigno {
+    margin-left: 150px;
+    margin-top: 20px;
+    border: 3px solid;
+    border-radius: 50px;
+    border-color: darkslateblue;
+    height: 50px;
+    width: 50px;
+}
+
+.textomas {
+    font-weight: bolder;
+    color: darkslateblue;
+    font-size: xx-large;
+    padding: auto;
+}
+
+.botoncuenta {
+    margin-left: 100px;
+    margin-top: 20px;
+    box-shadow: 3px 3px black;
+    width: 160px;
+    height: 35px;
+    background-color: dodgerblue;
+    border-radius: 1px;
+}
+
+.textocuenta {
+    font-weight: bold;
+    color: white;
+
+}
